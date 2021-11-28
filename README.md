@@ -1,8 +1,7 @@
 # Coding Advanced Backdoor
 # The code is written in Python code
 # The code consists of two files , one client side module, where the victim is sitting and the next the server side which is the attackers' side
-# It's upto the attacker how to transfer the backdoor to the victim's machine either by zone transferring or by using Ngrok or by simple using a social engineering
-  attack
+# It's upto the attacker how to transfer the backdoor to the victim's machine either by zone transferring or by using Ngrok or by simple using a social engineering attack
  ---->Features of the backdoor
   1. Simple sending and recieving of Messages.
   2. Reverse Shell automatically reconnects after 20 sec.
